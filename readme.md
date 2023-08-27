@@ -1,10 +1,8 @@
-A small game based on the game doodle jump, made with a timelimit of one week. 
-The game follows several rules and design guidelines given before the start of development. 
-
-As a basis for the game a very simple framework was provided that allowed for loading and rendering of sprites at a given screen position as well as basic input events.
-All remaining gameplay elements and mechanics were coded from scratch.
+A small game based on Doodle Jump, created within a single week while following a set of rules and design guidelines. 
+As a basis for the game a simple framework was provided that allowed for loading and rendering of sprites at a given screen position as well as basic input events. 
+All remaining gameplay elements and mechanics were coded from scratch using C++, including garbage collection, collision detection and transforming the sprites from screen-space to world-space.<br>
 Due to licensing/copyright the framework and the associated classes were omitted from this upload. 
-
+<br><br>
 ![NotDoodleJump_Gameplay_1](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/258740e5-522f-4894-bc34-dca7e0b942e6)
 ![NotDoodleJump_Gameplay_2](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/81f4403b-4710-4234-9647-46c4c7dbfcda)
 ![NotDoodleJump_Gameplay_3](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/cb95f8e2-126a-4547-b20d-5ec15b69d9f5)
