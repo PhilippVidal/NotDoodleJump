@@ -5,11 +5,10 @@ As a basis for the game a very simple framework was provided that allowed for lo
 All remaining gameplay elements and mechanics were coded from scratch.
 Due to licensing/copyright the framework and the associated classes were omitted from this upload. 
 
-
-![NotDoodleJump_Gameplay_1](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/97dc2dd9-8c21-4dde-88bf-a09c7369ed12)
-![NotDoodleJump_Gameplay_2](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/852d1ece-e94c-4f15-be2e-fbd89ec975eb)
-![NotDoodleJump_Gameplay_3](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/c8920a3d-6303-4860-8321-23833a01e516)
-![NotDoodleJump_Gameplay_4](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/1b0666f4-e62a-411c-9320-bf853f7b4322)
-![NotDoodleJump_Gameplay_5](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/b72b5cbd-1689-49e4-9b3f-42687b33bcdc)
-![NotDoodleJump_Gameplay_6](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/b1b9e084-3ab6-41da-bc31-8a217d31ac1d)
-![NotDoodleJump_Gameplay_7](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/d93393fa-1780-4077-9540-b6bf9b894d18)
+![NotDoodleJump_Gameplay_1](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/258740e5-522f-4894-bc34-dca7e0b942e6)
+![NotDoodleJump_Gameplay_2](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/81f4403b-4710-4234-9647-46c4c7dbfcda)
+![NotDoodleJump_Gameplay_3](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/cb95f8e2-126a-4547-b20d-5ec15b69d9f5)
+![NotDoodleJump_Gameplay_4](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/7a0f43fb-3d5f-4888-b29c-cf858058b2b8)
+![NotDoodleJump_Gameplay_5](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/07284354-ac5f-4b4d-85ae-eb4dc0f9cd38)
+![NotDoodleJump_Gameplay_6](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/f3f3d2e1-3620-403d-bc80-2095f6f1449f)
+![NotDoodleJump_Gameplay_7](https://github.com/PhilippVidal/NotDoodleJump/assets/56507722/7f09a20b-e014-4c28-8436-abee55e5fc5d)
